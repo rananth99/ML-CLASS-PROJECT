@@ -1,0 +1,32 @@
+RBF Kernel:
+    Catalog 1:
+        Accuracy : 96.45
+        Redshift : 96.30
+    Catalog 2:
+        Accuracy : 95.01
+        Redshift : 
+    Catalog 3:
+        Accuracy : 95.62
+        Redshift : 
+        
+Gaussian Kernel:
+    Catalog 1:
+        Accuracy : 95.83
+        Redshift : 
+    Catalog 2:
+        Accuracy : 93.06
+        Redshift : 
+    Catalog 3:
+        Accuracy : 95.62
+        Redshift : 
+
+Linear Kernel:
+    Catalog 1:
+        Accuracy : 95.99
+        Redshift : 
+    Catalog 2:
+        Accuracy : 92.81
+        Redshift : 
+    Catalog 3:
+        Accuracy : 92.99
+        Redshift : 
